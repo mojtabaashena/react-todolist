@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\store"
   ],
+  "SelectedNode": "\\config-overrides.js",
   "PreviewInSolutionExplorer": false
 }
